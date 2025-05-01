@@ -18,7 +18,7 @@ This project aims to detect Adverse Drug Events (ADEs) from drug-effect pairs an
 ## Setup Instructions
 * Clone the repo:<br>
   - git clone repo-link <br>
-  -repo link : /https://github.com/FarhanaAlam04/NLP_Project_Multimodal-Transformer-Based-Model-for-Adverse-Drug-Event-Detection/tree/main <br>
+  -repo link : https://github.com/FarhanaAlam04/NLP_Project_Multimodal-Transformer-Based-Model-for-Adverse-Drug-Event-Detection/tree/main <br>
 * Install Dependencies:<br>
    - pip install -r requirements.txt<br>
 * Run Jupyer Notebook:<br>

@@ -10,7 +10,7 @@ This project aims to detect Adverse Drug Events (ADEs) from drug-effect pairs an
 - CADEC v2 (SCT)
 - FAERS structured dataset
 ## Files
-‘NLP_Project_Dataset-Final Cleaning_25CategoryCreation.ipynb’ – ADE+CADEC Dataset  preprocessing, and label Creation
+‘NLP_Project_Dataset-Final Cleaning_25CategoryCreation.ipynb’ – ADE+CADEC Dataset  preprocessing, and label Creation \b
 ‘ADEandCADEC-FinalJoining-Modeling-2.ipynb’ –  predict ADEs from “Drug + Effect”
 ‘ADEandCADDEC-withCategory.ipynb’ – notebook to redict CategoryID from “Drug + Effect” 
 ‘Multimodal_FAERS.ipynb’ – notebook for FARES dataset preprocessing and multi-modal ADE detection 

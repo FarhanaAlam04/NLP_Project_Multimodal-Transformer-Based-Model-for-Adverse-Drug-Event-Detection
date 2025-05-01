@@ -16,11 +16,11 @@ This project aims to detect Adverse Drug Events (ADEs) from drug-effect pairs an
 -‘Multimodal_FAERS.ipynb’ – notebook for FARES dataset preprocessing and multi-modal ADE detection <br>
 
 ## Setup Instructions
-* Clone the repo
- -- git clone <your-repo-link>
- -- repo link : Multimodal-Transformer-Based-Model-for-ADE-Detection
-* Install Dependencies:
- -- pip install -r requirements.txt
-* Run Jupyer Notebook:
- -- jupyter notebook
-* Then step by step run all the cells
+* Clone the repo:<br>
+ -- git clone <your-repo-link> <br>
+ -- repo link : Multimodal-Transformer-Based-Model-for-ADE-Detection<br>
+* Install Dependencies:<br>
+ -- pip install -r requirements.txt<br>
+* Run Jupyer Notebook:<br>
+ -- jupyter notebook<br>
+* Then step by step run all the cells<br>

@@ -1,0 +1,1 @@
+# NLP_Project_Multimodal-Transformer-Based-Model-for-Adverse-Drug-Event-Detection

@@ -17,10 +17,10 @@ This project aims to detect Adverse Drug Events (ADEs) from drug-effect pairs an
 
 ## Setup Instructions
 * Clone the repo:<br>
- -- git clone <your-repo-link> <br>
- -- repo link : Multimodal-Transformer-Based-Model-for-ADE-Detection<br>
+  - git clone repo-link <br>
+  -repo link : Multimodal-Transformer-Based-Model-for-ADE-Detection<br>
 * Install Dependencies:<br>
- -- pip install -r requirements.txt<br>
+   - pip install -r requirements.txt<br>
 * Run Jupyer Notebook:<br>
- -- jupyter notebook<br>
+   - jupyter notebook<br>
 * Then step by step run all the cells<br>

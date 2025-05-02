@@ -21,6 +21,19 @@ This project aims to detect Adverse Drug Events (ADEs) from drug-effect pairs an
   -repo link : https://github.com/FarhanaAlam04/NLP_Project_Multimodal-Transformer-Based-Model-for-Adverse-Drug-Event-Detection/tree/main <br>
 * Install Dependencies:<br>
    - pip install -r requirements.txt<br>
+   - pip install torch torchvision torchaudio
+   - pip install transformers
+   - pip install datasets
+   - pip install scikit-learn
+   - pip install pandas
+   - pip install matplotlib seaborn
+   - pip install evaluate  # For more metrics
+   - pip install nltk    
+   - pip install tqdm
+   - pip install jupyter
+   - pip install spacy
+   - python -m spacy download en_core_web_sm
+
 * Run Jupyer Notebook:<br>
    - jupyter notebook<br>
 * Then step by step run all the cells<br>

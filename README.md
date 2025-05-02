@@ -6,9 +6,9 @@ This project aims to detect Adverse Drug Events (ADEs) from drug-effect pairs an
 - **Part 2**: Single-label Effect Category classification
 - **Part 3**: Multimodal ADE detection 
 ## Datasets Used
-- ADE-Corpus-V2
-- CADEC v2 (SCT)
-- FAERS structured dataset
+- ADE-Corpus-V2 : https://huggingface.co/datasets/ade-benchmark-corpus/ade_corpus_v2
+- CADEC v2 (SCT) : https://data.csiro.au/collection/csiro:10948
+- FAERS structured dataset : https://open.fda.gov/data/faers/
 ## Files
 - ‘NLP_Project_Dataset-Final Cleaning_25CategoryCreation.ipynb’ – ADE+CADEC Dataset  preprocessing, and label Creation<br>
 - ‘ADEandCADEC-FinalJoining-Modeling-2.ipynb’ –  predict ADEs from “Drug + Effect”<br>

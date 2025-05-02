@@ -27,7 +27,7 @@ This project aims to detect Adverse Drug Events (ADEs) from drug-effect pairs an
    - pip install scikit-learn
    - pip install pandas
    - pip install matplotlib seaborn
-   - pip install evaluate  # For more metrics
+   - pip install evaluate 
    - pip install nltk    
    - pip install tqdm
    - pip install jupyter

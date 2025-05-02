@@ -37,3 +37,13 @@ This project aims to detect Adverse Drug Events (ADEs) from drug-effect pairs an
 * Run Jupyer Notebook:<br>
    - jupyter notebook<br>
 * Then step by step run all the cells<br>
+
+## HTML File Notice
+The .html files in this repository are exported versions of Jupyter Notebooks. These were saved using the File → Save and Export As → HTML option in Jupyter. This allows viewing the notebooks without needing Jupyter itself.
+
+Important Note:
+When viewed on GitHub or Google Drive, the HTML files may appear as raw code instead of fully rendered notebooks. This is expected behavior — to properly view the formatted output:
+
+Option 1: Download the .html file and open it in any web browser.
+
+Option 2: View the .ipynb notebook directly using Jupyter or Google Colab.

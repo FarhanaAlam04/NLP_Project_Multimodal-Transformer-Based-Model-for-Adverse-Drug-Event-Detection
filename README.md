@@ -42,7 +42,7 @@ This project aims to detect Adverse Drug Events (ADEs) from drug-effect pairs an
 The .html files in this repository are exported versions of Jupyter Notebooks. These were saved using the File → Save and Export As → HTML option in Jupyter. This allows viewing the notebooks without needing Jupyter itself.
 
 Important Note:
-When viewed on GitHub or Google Drive, the HTML files may appear as raw code instead of fully rendered notebooks. This is expected behavior — to properly view the formatted output:
+When viewed on GitHub or Google Drive, the HTML files may appear as raw code instead of fully rendered notebooks. If it happens, to properly view the formatted output:
 
 Option 1: Download the .html file and open it in any web browser.
 
